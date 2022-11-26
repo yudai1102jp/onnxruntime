@@ -68,4 +68,7 @@ pip install onnxruntime/onnxruntime-1.14.0-cp38-cp38-linux_aarch64.whl
 # sudo apt-get install python3-opencv 
 # pip install -r requirements.txt
 # pip install ./rsp/onnxruntime-1.8.0-cp37-cp37m-linux_armv7l.whl
+
+sudo chmod 777 /dev/video0
+
 source ~/.bashrc
